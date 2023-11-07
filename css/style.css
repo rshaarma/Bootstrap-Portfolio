@@ -148,7 +148,7 @@ h6 {
 /* About styles starts */
 
 .about-section {
-  height: 400px;
+  min-height: 400px;
   padding-top: 50px;
   font-family: "Source Serif Pro", Helvetica, sans-serif;
 }
@@ -174,8 +174,8 @@ h6 {
 /* Work style starts */
 
 .work-section {
-  padding-top: 40px;
-  height: 500px;
+  padding-top: 50px;
+  min-height: 500px;
 }
 
 .work-section h1 {
@@ -184,13 +184,19 @@ h6 {
 }
 
 .card-height {
-  height: 240px;
+  height: 280px;
+  /* padding-bottom: 70px; */
 }
 
-.card-shadow {
-  /* box-shadow: 2px 2px black; */
+/* skills */
+
+.skill-section {
+  padding-top: 50px;
+  min-height: 500px;
 }
 
-.card-width {
-  width: 100%;
+.logo-item {
+  width: 230px;
+  padding: 60px;
+  margin-right: 60px;
 }
