@@ -83,6 +83,8 @@ See the [open issues](https://github.com/rshaarma/Bootstrap-Portfolio/issues) fo
 3. Google Fonts (https://fonts.google.com/)
 4. Github (https://github.com/)
 5. Bootstrap (https://getbootstrap.com/)
+6. Responsive Web Design - How to Create Media Queries
+7. Media Queries 101 by CSS Tricks
 <!-- CONTRIBUTING -->
 
 ## Contributing
