@@ -197,7 +197,7 @@ h6 {
   min-height: 500px;
 }
 
-.work-section h1 {
+.skill-section h1 {
   color: #cd5c5c;
   font-family: "Teko", sans-serif;
 }
@@ -210,16 +210,15 @@ h6 {
 
 /* Footer */
 
-#footer {
+#contact {
   height: 300px;
   background-image: url("../assets/world-logo.png");
   background-position: center;
   background-size: cover;
-  background-color: dark-blue;
+  background-color: #3c6e71;
   position: relative;
   bottom: 0;
   width: 100%;
-  border: 5px solid #000;
 }
 
 .footer-container {
@@ -273,4 +272,11 @@ h6 {
 .footer-font-white {
   color: #cd5c5c;
   font-size: 1.5rem;
+}
+
+.footer-divider {
+  margin-bottom: 5px;
+  border-radius: 3px;
+  height: 2px;
+  background-color: #cd5c5c;
 }
