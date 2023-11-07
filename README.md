@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/rshaarma/horiseon-solutions">
-  <img width="161" alt="Logo" src="https://github.com/rshaarma/horiseon-solutions/assets/64362564/0b4c1676-5ef5-4d2f-bb14-214bedef212a">
+  <img width="202" alt="Screenshot 2023-11-07 at 23 23 54" src="https://github.com/rshaarma/rsdev-portfolio/assets/64362564/876805c9-698b-47a2-99fb-9e3f87e5e47f">
   </a>
 
   <h3 align="center">Welcome to Horiseon ReadMe</h3>
@@ -66,7 +66,7 @@ CSS3
 #### Clone the repository
 
 ```shell
-git clone git@github.com:rshaarma/horiseon-solutions.git
+git clone git@github.com:rshaarma/Bootstrap-Portfolio.git
 cd project
 ```
 
