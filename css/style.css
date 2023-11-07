@@ -1,0 +1,196 @@
+@import url("https://fonts.googleapis.com/css2?family=Gemunu+Libre&family=Libre+Barcode+128+Text&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gemunu+Libre&family=Libre+Barcode+128+Text&family=Teko:wght@300;400&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #f5ebe0;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+html {
+  scroll-behavior: smooth; /* setting up smooth window scroll*/
+}
+
+h1 {
+  font-family: "Teko", sans-serif;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Source Serif Pro", Helvetica, sans-serif;
+}
+
+/* Jumbotron style start */
+
+.customNav {
+  /* position: fixed; */
+  background-color: transparent !important;
+  z-index: 10;
+}
+
+.navbar-nav {
+  margin-left: auto;
+  margin-right: 0 !important;
+}
+
+.nav-item {
+  margin: 0px 12px;
+}
+
+.nav-link {
+  color: #fff;
+  font-size: 1.4rem;
+  font-weight: 400;
+  font-family: "Teko", sans-serif;
+}
+
+.nav-link:hover {
+  color: #cd5c5c;
+}
+
+.name–logo {
+  font-family: "Libre Barcode 128 Text", cursive;
+  text-transform: uppercase;
+  font-size: 50px;
+  letter-spacing: 0.1px; /*set up the spacing between the letters*/
+  color: #fff;
+  margin-left: 10px;
+}
+.name–logo:hover {
+  color: #cd5c5c;
+}
+
+.cv {
+  position: absolute;
+  right: 0%;
+  bottom: 4%;
+  background-color: #f7f1e3;
+  padding: 5px;
+  color: black;
+  font-size: calc(0.1rem + 1vw);
+  font-weight: 600;
+  z-index: 10;
+  text-decoration: none;
+}
+
+.navToggler {
+  color: #fff;
+  font-size: 14px;
+}
+
+.cv i {
+  cursor: pointer;
+  font-size: calc(0.5rem + 1vw);
+  margin-left: 2px;
+}
+
+.jumboBackground {
+  background-image: url(../images/hero.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  background-position: 50% 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 1;
+}
+
+.overlay {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.35);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.jumboCopy {
+  width: 70%;
+  min-width: 500px;
+  max-width: 700px;
+  text-align: center;
+  /* font-family: "Source Serif Pro", Helvetica, sans-serif; */
+}
+
+.jumboCopy > h1 {
+  font-size: 3.2rem;
+  font-weight: 500;
+}
+
+.jumboCopy > p {
+  font-size: 1.5rem;
+  font-weight: 300;
+  font-family: "Teko", sans-serif;
+}
+
+/* Jumbotron style end */
+
+/* About styles starts */
+
+.about-section {
+  height: 400px;
+  padding-top: 50px;
+  font-family: "Source Serif Pro", Helvetica, sans-serif;
+}
+
+.about-section h1 {
+  color: #cd5c5c;
+  font-family: "Teko", sans-serif;
+}
+
+.about-section p {
+  padding-top: 30px;
+  font-size: calc(1.5rem - 0.1rem);
+}
+
+.about-divider {
+  margin-bottom: 5px;
+  border-radius: 3px;
+  height: 2px;
+  width: 95%;
+  background-color: #cd5c5c;
+}
+
+/* Work style starts */
+
+.work-section {
+  padding-top: 40px;
+  height: 500px;
+}
+
+.work-section h1 {
+  color: #cd5c5c;
+  font-family: "Teko", sans-serif;
+}
+
+.card-height {
+  height: 240px;
+}
+
+.card-shadow {
+  /* box-shadow: 2px 2px black; */
+}
+
+.card-width {
+  width: 100%;
+}
