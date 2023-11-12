@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/rshaarma/horiseon-solutions">
+  <a href="https://github.com/rshaarma/Bootstrap-Portfolio">
   <img width="202" alt="Screenshot 2023-11-07 at 23 23 54" src="https://github.com/rshaarma/rsdev-portfolio/assets/64362564/876805c9-698b-47a2-99fb-9e3f87e5e47f">
   </a>
 
@@ -8,7 +8,7 @@
 
   <p align="center">
     <strong>Explore the docs »</strong>
-    <a href="https://rshaarma.github.io/horiseon-solutions/">View Demo</a>
+    <a href="https://rshaarma.github.io/Bootstrap-Portfolio/">View Demo</a>
     ·
     <a href="https://github.com/rshaarma/Bootstrap-Portfolio/issues">Report Bug</a>
     ·
