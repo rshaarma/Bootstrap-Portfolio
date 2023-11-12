@@ -36,7 +36,7 @@
 
 <img width="1439" alt="Screenshot 2023-11-07 at 22 55 28" src="https://github.com/rshaarma/portfolio/assets/64362564/a3480397-46fd-48ac-b0bb-9e124afc386a">
 
-This repository contains a web application of marketing agency where users can contact for online marketing and also to increase the visibility to find the right customers for the business.
+This repository contains a web application about myself, skills set, recent projects and contact information.
 
 The live website has been deployed to
 Github Pages. This project was developed by [Rohit](https://github.com/rshaarma) .
