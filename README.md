@@ -4,7 +4,7 @@
   <img width="202" alt="Screenshot 2023-11-07 at 23 23 54" src="https://github.com/rshaarma/rsdev-portfolio/assets/64362564/876805c9-698b-47a2-99fb-9e3f87e5e47f">
   </a>
 
-  <h3 align="center">Welcome to Horiseon ReadMe</h3>
+  <h3 align="center">Welcome to Portfolio ReadMe</h3>
 
   <p align="center">
     <strong>Explore the docs »</strong>
